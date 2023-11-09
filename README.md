@@ -6,4 +6,4 @@ By profession, I deal with High Performance Computing, mostly using GPUs. I do t
 
 Beyond that, my curiosity brings me to many destinations – and leaving some half-ready projects on the way (which you might find here as witnesses of the past). I like Python as my go-to language for solving problems, and LaTeX to spend too much time on typesetting beautiful text.
 
-You find me on Twitter as [@AndiH](https://twitter.com/andih) or on LinkedIn as [andreasherten](https://de.linkedin.com/in/andreasherten)
+You find me on Mastodon as [@andih@mastodon.social](https://mastodon.social/@andih), on Xwitter as [@AndiH](https://twitter.com/andih), or on LinkedIn as [andreasherten](https://de.linkedin.com/in/andreasherten)
